@@ -36,7 +36,7 @@ class _CalculatorState extends State<Calculator> {
         child: Text(
           '$btnText',
           style: TextStyle(
-            fontSize: 35,
+            fontSize: 40,
             color: txtColor,
           ),
         ),
