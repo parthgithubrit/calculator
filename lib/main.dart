@@ -57,7 +57,6 @@ class _CalculatorState extends State<Calculator> {
       appBar: AppBar(
         title: Text('Calculator',style: TextStyle(color: Colors.white),),
         backgroundColor: Colors.black,
-        primaryColor: Colors.white,
       ),
       body: Padding(
         padding: EdgeInsets.symmetric(horizontal: 10),
